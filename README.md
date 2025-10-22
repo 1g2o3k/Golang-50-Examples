@@ -1,2 +1,2 @@
 # Golang-50-Examples
-50 examples for learning Golang please donate.  Donate:   https://studio.buymeacoffee.com/dashboard
+For better learning of Golang programming language  Donate:   https://studio.buymeacoffee.com/dashboard
